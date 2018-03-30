@@ -1,0 +1,11 @@
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\bin\Debug\netcoreapp2.0\Singleton-DP-04.deps.json
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\bin\Debug\netcoreapp2.0\Singleton-DP-04.runtimeconfig.json
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\bin\Debug\netcoreapp2.0\Singleton-DP-04.runtimeconfig.dev.json
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\bin\Debug\netcoreapp2.0\Singleton-DP-04.dll
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\bin\Debug\netcoreapp2.0\Singleton-DP-04.pdb
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\obj\Debug\netcoreapp2.0\Singleton-DP-04.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\obj\Debug\netcoreapp2.0\Singleton-DP-04.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\obj\Debug\netcoreapp2.0\Singleton-DP-04.AssemblyInfoInputs.cache
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\obj\Debug\netcoreapp2.0\Singleton-DP-04.AssemblyInfo.cs
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\obj\Debug\netcoreapp2.0\Singleton-DP-04.dll
+D:\DesignPatterns\Singleton-DP-04\Singleton-DP-04\obj\Debug\netcoreapp2.0\Singleton-DP-04.pdb
