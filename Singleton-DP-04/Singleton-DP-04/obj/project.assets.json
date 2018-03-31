@@ -664,17 +664,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bharathm\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "D:\\DesignPatterns\\Singleton-DP-04\\Singleton-DP-04\\Singleton-DP-04.csproj",
       "projectName": "Singleton-DP-04",
       "projectPath": "D:\\DesignPatterns\\Singleton-DP-04\\Singleton-DP-04\\Singleton-DP-04.csproj",
-      "packagesPath": "C:\\Users\\bharathm\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "D:\\DesignPatterns\\Singleton-DP-04\\Singleton-DP-04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -682,7 +685,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bharathm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -691,7 +694,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
