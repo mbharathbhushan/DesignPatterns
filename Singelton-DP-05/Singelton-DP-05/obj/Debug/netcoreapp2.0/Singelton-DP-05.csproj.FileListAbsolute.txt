@@ -1,0 +1,11 @@
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\obj\Debug\netcoreapp2.0\Singelton-DP-05.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\obj\Debug\netcoreapp2.0\Singelton-DP-05.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\obj\Debug\netcoreapp2.0\Singelton-DP-05.AssemblyInfoInputs.cache
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\obj\Debug\netcoreapp2.0\Singelton-DP-05.AssemblyInfo.cs
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\bin\Debug\netcoreapp2.0\Singelton-DP-05.deps.json
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\bin\Debug\netcoreapp2.0\Singelton-DP-05.runtimeconfig.json
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\bin\Debug\netcoreapp2.0\Singelton-DP-05.runtimeconfig.dev.json
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\bin\Debug\netcoreapp2.0\Singelton-DP-05.dll
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\bin\Debug\netcoreapp2.0\Singelton-DP-05.pdb
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\obj\Debug\netcoreapp2.0\Singelton-DP-05.dll
+D:\DesignPatterns\Singelton-DP-05\Singelton-DP-05\obj\Debug\netcoreapp2.0\Singelton-DP-05.pdb
