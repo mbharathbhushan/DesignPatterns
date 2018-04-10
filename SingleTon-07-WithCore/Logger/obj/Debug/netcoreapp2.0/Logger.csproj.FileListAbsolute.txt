@@ -1,0 +1,9 @@
+D:\DesignPatterns\SingleTon-07-WithCore\Logger\bin\Debug\netcoreapp2.0\Logger.deps.json
+D:\DesignPatterns\SingleTon-07-WithCore\Logger\bin\Debug\netcoreapp2.0\Logger.dll
+D:\DesignPatterns\SingleTon-07-WithCore\Logger\bin\Debug\netcoreapp2.0\Logger.pdb
+D:\DesignPatterns\SingleTon-07-WithCore\Logger\obj\Debug\netcoreapp2.0\Logger.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\SingleTon-07-WithCore\Logger\obj\Debug\netcoreapp2.0\Logger.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\SingleTon-07-WithCore\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfoInputs.cache
+D:\DesignPatterns\SingleTon-07-WithCore\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfo.cs
+D:\DesignPatterns\SingleTon-07-WithCore\Logger\obj\Debug\netcoreapp2.0\Logger.dll
+D:\DesignPatterns\SingleTon-07-WithCore\Logger\obj\Debug\netcoreapp2.0\Logger.pdb

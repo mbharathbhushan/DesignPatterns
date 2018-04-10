@@ -1,0 +1,10 @@
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\bin\Debug\DataStore.dacpac
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\bin\Debug\DataStore.dll
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\bin\Debug\DataStore.pdb
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\obj\Debug\DataStore.sqlprojResolveAssemblyReference.cache
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\obj\Debug\Model.xml
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\obj\Debug\refactor.xml
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\obj\Debug\postdeploy.sql
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\obj\Debug\predeploy.sql
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\obj\Debug\DataStore.dll
+D:\DesignPatterns\SingleTon-07-WithCore\DataStore\obj\Debug\DataStore.pdb

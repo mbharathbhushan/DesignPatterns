@@ -1,0 +1,14 @@
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\bin\Debug\netcoreapp2.0\SingleTon-07-WithCore.deps.json
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\bin\Debug\netcoreapp2.0\SingleTon-07-WithCore.runtimeconfig.json
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\bin\Debug\netcoreapp2.0\SingleTon-07-WithCore.runtimeconfig.dev.json
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\bin\Debug\netcoreapp2.0\SingleTon-07-WithCore.dll
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\bin\Debug\netcoreapp2.0\SingleTon-07-WithCore.pdb
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\obj\Debug\netcoreapp2.0\SingleTon-07-WithCore.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\obj\Debug\netcoreapp2.0\SingleTon-07-WithCore.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\obj\Debug\netcoreapp2.0\SingleTon-07-WithCore.AssemblyInfoInputs.cache
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\obj\Debug\netcoreapp2.0\SingleTon-07-WithCore.AssemblyInfo.cs
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\obj\Debug\netcoreapp2.0\SingleTon-07-WithCore.dll
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\obj\Debug\netcoreapp2.0\SingleTon-07-WithCore.pdb
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\bin\Debug\netcoreapp2.0\Logger.dll
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\bin\Debug\netcoreapp2.0\Logger.pdb
+D:\DesignPatterns\SingleTon-07-WithCore\SingleTon-07-WithCore\obj\Debug\netcoreapp2.0\SingleTon-07-WithCore.csproj.CopyComplete
