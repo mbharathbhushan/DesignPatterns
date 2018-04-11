@@ -1,0 +1,10 @@
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\bin\Debug\netcoreapp2.0\FactoryDesignPattern_08.deps.json
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\bin\Debug\netcoreapp2.0\FactoryDesignPattern_08.runtimeconfig.json
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\bin\Debug\netcoreapp2.0\FactoryDesignPattern_08.runtimeconfig.dev.json
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\bin\Debug\netcoreapp2.0\FactoryDesignPattern_08.dll
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\bin\Debug\netcoreapp2.0\FactoryDesignPattern_08.pdb
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netcoreapp2.0\FactoryDesignPattern_08.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netcoreapp2.0\FactoryDesignPattern_08.AssemblyInfoInputs.cache
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netcoreapp2.0\FactoryDesignPattern_08.AssemblyInfo.cs
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netcoreapp2.0\FactoryDesignPattern_08.dll
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netcoreapp2.0\FactoryDesignPattern_08.pdb
