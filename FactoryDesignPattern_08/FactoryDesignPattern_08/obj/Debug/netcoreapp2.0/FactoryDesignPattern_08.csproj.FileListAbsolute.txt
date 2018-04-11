@@ -8,3 +8,4 @@ D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netc
 D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netcoreapp2.0\FactoryDesignPattern_08.AssemblyInfo.cs
 D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netcoreapp2.0\FactoryDesignPattern_08.dll
 D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netcoreapp2.0\FactoryDesignPattern_08.pdb
+D:\DesignPatterns\FactoryDesignPattern_08\FactoryDesignPattern_08\obj\Debug\netcoreapp2.0\FactoryDesignPattern_08.csprojResolveAssemblyReference.cache

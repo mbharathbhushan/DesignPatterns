@@ -1,0 +1,10 @@
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\bin\Debug\DataStore.dacpac
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\bin\Debug\DataStore.dll
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\bin\Debug\DataStore.pdb
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\obj\Debug\DataStore.sqlprojResolveAssemblyReference.cache
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\obj\Debug\Model.xml
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\obj\Debug\refactor.xml
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\obj\Debug\postdeploy.sql
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\obj\Debug\predeploy.sql
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\obj\Debug\DataStore.dll
+D:\DesignPatterns\FactoryDesignPattern_08\DataStore\obj\Debug\DataStore.pdb
