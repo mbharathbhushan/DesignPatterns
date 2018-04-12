@@ -1,0 +1,11 @@
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\bin\Debug\netcoreapp2.0\FactoryDP_09.deps.json
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\bin\Debug\netcoreapp2.0\FactoryDP_09.runtimeconfig.json
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\bin\Debug\netcoreapp2.0\FactoryDP_09.runtimeconfig.dev.json
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\bin\Debug\netcoreapp2.0\FactoryDP_09.dll
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\obj\Debug\netcoreapp2.0\FactoryDP_09.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\obj\Debug\netcoreapp2.0\FactoryDP_09.AssemblyInfoInputs.cache
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\obj\Debug\netcoreapp2.0\FactoryDP_09.AssemblyInfo.cs
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\obj\Debug\netcoreapp2.0\FactoryDP_09.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\bin\Debug\netcoreapp2.0\FactoryDP_09.pdb
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\obj\Debug\netcoreapp2.0\FactoryDP_09.dll
+D:\DesignPatterns\FactoryDP_09\FactoryDP_09\obj\Debug\netcoreapp2.0\FactoryDP_09.pdb

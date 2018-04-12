@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDP_09", "FactoryDP_09\FactoryDP_09.csproj", "{01142179-744E-4D8A-B9CC-E5D034F69B41}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DataStore", "DataStore\DataStore.sqlproj", "{D89DF50A-549C-42CF-8F51-C379297716AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01142179-744E-4D8A-B9CC-E5D034F69B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01142179-744E-4D8A-B9CC-E5D034F69B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01142179-744E-4D8A-B9CC-E5D034F69B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01142179-744E-4D8A-B9CC-E5D034F69B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89DF50A-549C-42CF-8F51-C379297716AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89DF50A-549C-42CF-8F51-C379297716AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89DF50A-549C-42CF-8F51-C379297716AB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D89DF50A-549C-42CF-8F51-C379297716AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89DF50A-549C-42CF-8F51-C379297716AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89DF50A-549C-42CF-8F51-C379297716AB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0DEADE7-21B0-4907-B6BF-3273EB44EE25}
+	EndGlobalSection
+EndGlobal

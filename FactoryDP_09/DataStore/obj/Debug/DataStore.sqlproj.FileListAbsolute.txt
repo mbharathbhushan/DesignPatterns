@@ -1,0 +1,9 @@
+D:\DesignPatterns\FactoryDP_09\DataStore\bin\Debug\DataStore.dacpac
+D:\DesignPatterns\FactoryDP_09\DataStore\bin\Debug\DataStore.dll
+D:\DesignPatterns\FactoryDP_09\DataStore\bin\Debug\DataStore.pdb
+D:\DesignPatterns\FactoryDP_09\DataStore\obj\Debug\Model.xml
+D:\DesignPatterns\FactoryDP_09\DataStore\obj\Debug\refactor.xml
+D:\DesignPatterns\FactoryDP_09\DataStore\obj\Debug\postdeploy.sql
+D:\DesignPatterns\FactoryDP_09\DataStore\obj\Debug\predeploy.sql
+D:\DesignPatterns\FactoryDP_09\DataStore\obj\Debug\DataStore.dll
+D:\DesignPatterns\FactoryDP_09\DataStore\obj\Debug\DataStore.pdb
