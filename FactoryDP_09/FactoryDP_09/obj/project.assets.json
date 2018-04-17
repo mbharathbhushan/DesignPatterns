@@ -6067,7 +6067,7 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
-      "sha512": "aq0R74LIG5/jmEwj36w78uio5zkMezUXIMUaYCqLs9cxFwDWN1umrRxJSGzBDQwC/o73SVF3hGQZDAgeQFKsuw==",
+      "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "files": [
@@ -13126,17 +13126,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bharathm\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "D:\\DesignPatterns\\FactoryDP_09\\FactoryDP_09\\FactoryDP_09.csproj",
       "projectName": "FactoryDP_09",
       "projectPath": "D:\\DesignPatterns\\FactoryDP_09\\FactoryDP_09\\FactoryDP_09.csproj",
-      "packagesPath": "C:\\Users\\bharathm\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "D:\\DesignPatterns\\FactoryDP_09\\FactoryDP_09\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -13144,7 +13147,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bharathm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -13153,7 +13156,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

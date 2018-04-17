@@ -1,0 +1,11 @@
+D:\DesignPatterns\AbstractDP10\AbstractDP10\bin\Debug\netcoreapp2.0\AbstractDP10.deps.json
+D:\DesignPatterns\AbstractDP10\AbstractDP10\bin\Debug\netcoreapp2.0\AbstractDP10.runtimeconfig.json
+D:\DesignPatterns\AbstractDP10\AbstractDP10\bin\Debug\netcoreapp2.0\AbstractDP10.runtimeconfig.dev.json
+D:\DesignPatterns\AbstractDP10\AbstractDP10\bin\Debug\netcoreapp2.0\AbstractDP10.dll
+D:\DesignPatterns\AbstractDP10\AbstractDP10\obj\Debug\netcoreapp2.0\AbstractDP10.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\AbstractDP10\AbstractDP10\obj\Debug\netcoreapp2.0\AbstractDP10.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\AbstractDP10\AbstractDP10\obj\Debug\netcoreapp2.0\AbstractDP10.AssemblyInfoInputs.cache
+D:\DesignPatterns\AbstractDP10\AbstractDP10\obj\Debug\netcoreapp2.0\AbstractDP10.AssemblyInfo.cs
+D:\DesignPatterns\AbstractDP10\AbstractDP10\bin\Debug\netcoreapp2.0\AbstractDP10.pdb
+D:\DesignPatterns\AbstractDP10\AbstractDP10\obj\Debug\netcoreapp2.0\AbstractDP10.dll
+D:\DesignPatterns\AbstractDP10\AbstractDP10\obj\Debug\netcoreapp2.0\AbstractDP10.pdb
