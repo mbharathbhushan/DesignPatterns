@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace FactoryDP_09.Managers
+﻿namespace FactoryDP_09.Managers
 {
     public class PermanentEmployeeManager : IEmployeeManager
     {
@@ -15,7 +10,11 @@ namespace FactoryDP_09.Managers
         public decimal GetPay()
         {
             return 8;
+        }
 
+        public decimal GetHouseAllowance()
+        {
+            return 150;
         }
     }
 }

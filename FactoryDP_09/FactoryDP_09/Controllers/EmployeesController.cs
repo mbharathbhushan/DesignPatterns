@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using FactoryDP_09.Factory.FactoryMethod;
 using Microsoft.EntityFrameworkCore;
 using FactoryDP_09.Models;
 
@@ -62,6 +63,8 @@ namespace FactoryDP_09.Controllers
         {
             if (ModelState.IsValid)
             {
+                BaseEmployeeFactory baseEmployeeFactory = new EmployeeManagerFactory().CreateFactory(employee);
+                baseEmployeeFactory.ApplySalary();
                 _context.Add(employee);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
