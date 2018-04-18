@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using AbstractDP10.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AbstractDP10
 {
@@ -21,7 +23,9 @@ namespace AbstractDP10
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var connection = Configuration.GetConnectionString("AFDP10");
             services.AddMvc();
+            services.AddDbContext<AbstractFactory10Context>(options => options.UseSqlServer(connection));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

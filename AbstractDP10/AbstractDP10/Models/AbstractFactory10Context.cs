@@ -10,13 +10,18 @@ namespace AbstractDP10.Models
         public virtual DbSet<EmployeeType> EmployeeType { get; set; }
         public virtual DbSet<Sample> Sample { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //        {
+        //            if (!optionsBuilder.IsConfigured)
+        //            {
+        //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+        //                optionsBuilder.UseSqlServer(@"Server=.;Database=AbstractFactory10;Trusted_Connection=True;");
+        //            }
+        //        }
+
+        public AbstractFactory10Context(DbContextOptions<AbstractFactory10Context> options) : base(options)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer(@"Server=.;Database=AbstractFactory10;Trusted_Connection=True;");
-            }
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
