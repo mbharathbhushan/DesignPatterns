@@ -1,0 +1,9 @@
+D:\DesignPatterns\AbstractDP10\DataStore\bin\Debug\DataStore.dacpac
+D:\DesignPatterns\AbstractDP10\DataStore\bin\Debug\DataStore.dll
+D:\DesignPatterns\AbstractDP10\DataStore\bin\Debug\DataStore.pdb
+D:\DesignPatterns\AbstractDP10\DataStore\obj\Debug\Model.xml
+D:\DesignPatterns\AbstractDP10\DataStore\obj\Debug\refactor.xml
+D:\DesignPatterns\AbstractDP10\DataStore\obj\Debug\postdeploy.sql
+D:\DesignPatterns\AbstractDP10\DataStore\obj\Debug\predeploy.sql
+D:\DesignPatterns\AbstractDP10\DataStore\obj\Debug\DataStore.dll
+D:\DesignPatterns\AbstractDP10\DataStore\obj\Debug\DataStore.pdb

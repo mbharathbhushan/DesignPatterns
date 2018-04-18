@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 
 namespace AbstractDP10.Factory.AbstractFactory
 {
-    public class IBrand
+    public interface IBrand
     {
+        string GetBrand();
     }
 }
